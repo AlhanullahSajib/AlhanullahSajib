@@ -67,35 +67,16 @@ I enjoy turning ideas into reality through code and focus on **frontend developm
 
 ---
 
-## 🎓 Education
-
-- **Bangladesh University of Business & Technology (BUBT)**  
-  Bachelor of Science (BSc) in Computer Science — *June 2023 – Present*
-
-- **Joypurhat Govt. College, Joypurhat**  
-  Higher Secondary Education — *2020 – 2022*
-
----
-
-## 🏅 Certifications
-
-- Responsive Web Design  
-- Introduction to HTML  
-- Introduction to C  
-- Brainstorming Week Certificate  
-
----
 
 ## 📫 Contact Me
 
-📍 Rupnagar Abashik, Mirpur-2, Dhaka  
-📞 +8801401680824  
+📍 Dhaka  
+📞 +8801410680824  
 
 📧 [![Gmail Badge](https://img.shields.io/badge/-alhanullah72423@gmail.com-c14438?style=flat-roundedrectangle&logo=Gmail&logoColor=white)](mailto:alhanullah72423@gmail.com)
 
 💼 [![LinkedIn Badge](https://img.shields.io/badge/-Alhanullah%20Sajib-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alhanullahsajib-473078277)
 
-🌐 Portfolio: https://app.netlify.com/sites/alhanullah/
 
 ---
 
